@@ -1,18 +1,1 @@
-更新时间,#genre#
-20250109 14:58:59,url
-
-SuZhou,#genre#
-苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
-苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
-苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
-苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
-
-苏州新闻综合,http://61.155.203.93:5021/live_hls/1/.m3u8
-苏州社会经济,http://61.155.203.93:5021/live_hls/2/.m3u8
-苏州文化生活,http://61.155.203.93:5021/live_hls/3/.m3u8
-苏州生活资讯,http://61.155.203.93:5021/live_hls/4/.m3u8
-
-苏州新闻综合,rtmp://csztv.2500sz.com/live/c01
-苏州社会经济,rtmp://csztv.2500sz.com/live/c02
-苏州文化生活,rtmp://csztv.2500sz.com/live/c03
-苏州生活资讯,rtmp://csztv.2500sz.com/live/c04
+https://raw.githubusercontent.com/tsproj1/forktv/refs/heads/main/custom/suzhou.txt
