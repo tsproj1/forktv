@@ -15,5 +15,5 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           owner: kimwang1978
-          base: master
-          head: master
+          base: main
+          head: main
