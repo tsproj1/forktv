@@ -35,11 +35,6 @@ jobs:
           git merge upstream/main -m "Sync from upstream"
 
       # Push changes to the fork
-      - name: Commit changes
-        run: |
-          git add .
-          git commit -m "Git AutoSync $(date +'%Y%m%d')"
-
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
