@@ -2,41 +2,41 @@ name: Sync Fork Git
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天运行一次
-  workflow_dispatch: # 手动触发
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch: # Manual trigger
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      # 检出代码
+      # Checkout the code
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false # 避免使用默认的 GitHub token
-          fetch-depth: 0 # 获取完整的提交历史记录
+          persist-credentials: false # Avoid using the default GitHub token
+          fetch-depth: 0 # Fetch the full commit history
 
-      # 设置 Git 用户
+      # Set Git user
       - name: Set Git User
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions Sync"
 
-      # 添加上游仓库为 remote
+      # Add upstream repository
       - name: Add Upstream
         run: |
           git remote add upstream https://github.com/kimwang1978/collect-tv-txt.git
           git fetch upstream
 
-      # 合并上游分支
+      # Merge upstream branch
       - name: Merge Upstream Branch
         run: |
           git merge upstream/main -m "Sync from upstream"
 
-      # 推送更改到 Fork 仓库
+      # Push changes to the fork
       - name: Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git push origin main
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
