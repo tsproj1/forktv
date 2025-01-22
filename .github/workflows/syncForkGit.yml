@@ -2,7 +2,7 @@ name: Sync Fork Git
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily
+    - cron: '0 1,13 * * *' # 每天 1:00 和 13:00 运行
   workflow_dispatch: # Manual trigger
 
 jobs:
