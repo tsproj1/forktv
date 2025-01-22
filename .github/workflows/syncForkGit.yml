@@ -35,8 +35,7 @@ jobs:
           git merge upstream/main -m "Sync from upstream"
 
       # Push changes to the fork
-      - name: Push Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+      - name: Push changes
+          uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
