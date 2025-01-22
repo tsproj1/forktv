@@ -2,7 +2,7 @@ name: 'My Daily Job'
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # UTC
+    - cron: '0 2 * * *'  # UTC
   workflow_dispatch:
     inputs:
       environment:
