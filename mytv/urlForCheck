@@ -1,0 +1,11 @@
+https://github.com/hktkjj/tvbox?tab=readme-ov-file
+{
+  [https://github.com/hktkjj/Guovin-IPTV]
+    https://raw.githubusercontent.com/hktkjj/Guovin-IPTV/refs/heads/master/output/result.txt
+    https://cdn.jsdelivr.net/gh/hktkjj/Guovin-IPTV@master/output/result.txt
+}
+
+---
+{
+
+}
