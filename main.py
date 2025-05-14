@@ -213,7 +213,7 @@ def clean_url(url):
 # 添加channel_name前剔除部分特定字符
 removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","_ITV","(北美)","(HK)","AKtv","「IPV4」","「IPV6」",
                 "频陆","备陆","壹陆","贰陆","叁陆","肆陆","伍陆","陆陆","柒陆", "频晴","频粤","[超清]","高清","超清","标清","斯特",
-                "粤陆", "国陆","肆柒","频英","频特","频国","频壹","频贰","肆贰","频测","咪咕","闽特","高特","频高","频标"]
+                "粤陆", "国陆","肆柒","频英","频特","频国","频壹","频贰","肆贰","频测","咪咕","闽特","高特","频高","频标","汝阳"]
 def clean_channel_name(channel_name, removal_list):
     for item in removal_list:
         channel_name = channel_name.replace(item, "")
@@ -594,18 +594,17 @@ def get_http_response(url, timeout=8, retries=2, backoff_factor=1.0):
     return None  # 所有尝试失败后返回 None
 
 #AKTV#
-aktv_lines = [] #AKTV
-aktv_url = "https://aktv.space/live.m3u" #AKTV
+# aktv_lines = [] #AKTV
+# aktv_url = "https://aktv.space/live.m3u" #AKTV
 
-aktv_text = get_http_response(aktv_url)
-if aktv_text:
-    print("AKTV成功获取内容")
-    aktv_text = convert_m3u_to_txt(aktv_text)
-    aktv_lines = aktv_text.strip().split('\n')
-else:
-    print("AKTV请求失败，从本地获取！")
-    aktv_lines = read_txt_to_array('专区/AKTV.txt')
-
+# aktv_text = get_http_response(aktv_url)
+# if aktv_text:
+#     print("AKTV成功获取内容")
+#     aktv_text = convert_m3u_to_txt(aktv_text)
+#     aktv_lines = aktv_text.strip().split('\n')
+# else:
+#     print("AKTV请求失败，从本地获取！")
+#     aktv_lines = read_txt_to_array('专区/AKTV.txt')
 #AKTV#
 
 # 随机取得URL
@@ -633,14 +632,13 @@ about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
 version=formatted_time+","+about_video1
 about="关于本源(iptv365.org),"+about_video2
 # 瘦身版
-# 
+#              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+read_txt_to_array('专区/about.txt')+ ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
@@ -668,7 +666,6 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv]+read_txt
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
              ["💓台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["💓电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
@@ -744,18 +741,18 @@ output_file_simple = "merged_output_simple.txt"
 others_file = "others_output.txt"
 
 # NEW将合并后的文本写入文件
-new_output_file = "live.txt"
-new_output_file_simple = "live_lite.txt"
+new_output_file = "bbxx.txt"
+new_output_file_simple = "bbxx_lite.txt"
 
 # # custom定制
 # output_file_custom_zhang = "custom/zhang.txt"
 
 try:
     # 瘦身版
-    with open(output_file_simple, 'w', encoding='utf-8') as f:
-        for line in all_lines_simple:
-            f.write(line + '\n')
-    print(f"合并后的文本已保存到文件: {output_file_simple}")
+    # with open(output_file_simple, 'w', encoding='utf-8') as f:
+    #     for line in all_lines_simple:
+    #         f.write(line + '\n')
+    # print(f"合并后的文本已保存到文件: {output_file_simple}")
 
     with open(new_output_file_simple, 'w', encoding='utf-8') as f:
         for line in all_lines_simple:
@@ -763,10 +760,10 @@ try:
     print(f"合并后的文本已保存到文件: {new_output_file_simple}")
 
     # 全集版
-    with open(output_file, 'w', encoding='utf-8') as f:
-        for line in all_lines:
-            f.write(line + '\n')
-    print(f"合并后的文本已保存到文件: {output_file}")
+    # with open(output_file, 'w', encoding='utf-8') as f:
+    #     for line in all_lines:
+    #         f.write(line + '\n')
+    # print(f"合并后的文本已保存到文件: {output_file}")
 
     with open(new_output_file, 'w', encoding='utf-8') as f:
         for line in all_lines:
@@ -834,7 +831,7 @@ def get_logo_by_channel_name(channel_name):
 # print("merged_output.m3u文件已生成。")
 
 
-def make_m3u(txt_file, m3u_file, m3u_file_copy):
+def make_m3u(txt_file, m3u_file):
     try:
         #output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"\n'
         output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"\n'
@@ -875,17 +872,16 @@ def make_m3u(txt_file, m3u_file, m3u_file_copy):
 
         with open(f"{m3u_file}", "w", encoding='utf-8') as file:
             file.write(output_text)
-        with open(f"{m3u_file_copy}", "w", encoding='utf-8') as file:
-            file.write(output_text)
+        # with open(f"{m3u_file_copy}", "w", encoding='utf-8') as file:
+        #     file.write(output_text)
 
         print(f"M3U文件 '{m3u_file}' 生成成功。")
-        print(f"M3U文件 '{m3u_file_copy}' 生成成功。")
+        #print(f"M3U文件 '{m3u_file_copy}' 生成成功。")
     except Exception as e:
         print(f"发生错误: {e}")
 
-make_m3u(output_file, "merged_output.m3u", "live.m3u")
-make_m3u(output_file_simple, "merged_output_simple.m3u", "live_lite.m3u")
-
+make_m3u(new_output_file, new_output_file.replace(".txt", ".m3u"))
+make_m3u(new_output_file_simple, new_output_file_simple.replace(".txt", ".m3u"))
 
 # 执行结束时间
 timeend = datetime.now()
@@ -908,9 +904,9 @@ print(f"执行时间: {minutes} 分 {seconds} 秒")
 combined_blacklist_hj = len(combined_blacklist)
 all_lines_hj = len(all_lines)
 other_lines_hj = len(other_lines)
-print(f"blacklist行数: {combined_blacklist_hj} ")
-print(f"merged_output.txt行数: {all_lines_hj} ")
-print(f"others_output.txt行数: {other_lines_hj} ")
+print(f"黑名单行数: {combined_blacklist_hj} ")
+print(f"txt行数: {all_lines_hj} ")
+print(f"other行数: {other_lines_hj} ")
 
 
 #备用1：http://tonkiang.us
