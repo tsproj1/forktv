@@ -1,68 +1,69 @@
-name: Clone and Update Repositories
+name: 'My Daily Job'
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
-    # 每2小时运行一次
-    - cron: '0 0 * * *'
+    - cron: '0 2 * * *'  # UTC
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'production'
 
 jobs:
-  clone-and-update:
+  run_job:
     runs-on: ubuntu-latest
-
+    
     steps:
-    # 检出当前仓库
-    - name: Checkout current repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0  # 获取完整历史以便提交
-        token: ${{ secrets.GH_TOKEN }}  # 使用 PAT 检出
-
-    # 检查并克隆或更新 alantang1977/X
-    - name: Clone or Update alantang1977/X
-      run: |
-        if [ -d "alantang1977" ]; then
-          cd alantang1977
-          git pull origin main || echo "Failed to pull, recloning..."
-          cd ..
-        else
-          git clone https://github.com/alantang1977/X.git alantang1977
-        fi
-      working-directory: ${{ github.workspace }}
-
-    # 检查并克隆或更新 qist/tvbox
-    - name: Clone or Update qist/tvbox
-      run: |
-        if [ -d "qist" ]; then
-          cd qist
-          git pull origin main || echo "Failed to pull, recloning..."
-          cd ..
-        else
-          git clone https://github.com/qist/tvbox.git qist
-        fi
-      working-directory: ${{ github.workspace }}
-
-    # 配置 Git 用户信息
-    - name: Configure Git
-      run: |
-        git config user.name "GitHub Action"
-        git config user.email "action@github.com"
-
-    # 检查更改并提交到当前仓库
-    - name: Commit and Push Changes
-      run: |
-        git add alantang1977 qist
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update cloned repositories"
-          git push origin main
-        fi
-      working-directory: ${{ github.workspace }}
-
-
-
+    - name: Checkout repository
+      uses: actions/checkout@v2
       
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install opencc-python-reimplemented
+        
+    - name: Run Python script
+      run: python mytv/main.py
+      
+    # - name: Upload generated files
+    #   uses: actions/upload-artifact@v4
+    #   with:
+    #     name: generated-files
+    #     path: |
+    #       merged_output.txt
+    #       others_output.txt
+          
+    - name: Commit changes
+      run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          #git add merged_output.txt merged_output.m3u merged_output_simple.txt merged_output_simple.m3u others_output.txt
+          #git add live.txt live.m3u live_lite.txt live_lite.m3u
+          git add mytv/.
+          git commit -m ":tada:  LocalAutoUpdate $(date +'%Y%m%d')"
+
+          current_datetime=$(date +"%Y%m%d_%H%M%S")
+          # cp merged_output.txt history/"${current_datetime}_merged_output.txt"
+          # cp others_output.txt history/"${current_datetime}_others_output.txt"
+          # git add history/"${current_datetime}_merged_output.txt"
+          # git add history/"${current_datetime}_others_output.txt"
+          # git commit -m "Archive file with timestamp"
+
+          # 将归档文件打包zip文件
+          #zip_filename="history/${current_datetime}_archive_output.zip"
+          #zip -j "${zip_filename}" merged_output.txt others_output.txt
+          #git add "${zip_filename}"
+          #git commit -m "Archive zipfile: ${current_datetime}"
+          
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    
+        
