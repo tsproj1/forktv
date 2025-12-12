@@ -27,6 +27,7 @@ SuZhou,#genre#
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4K,https://stream1.freetv.fun/0aedec2d0f2776491d067c88c3b1517b10fabce1fa49249bcb0bf46254c190a6.m3u8
