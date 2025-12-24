@@ -2,6 +2,16 @@
 20250823 14:37:59,url
 
 SuZhou,#genre#
+苏州文化生活,https://stream1.freetv.fun/308673562ebc517694bd977cdebe8b7f1b974d64895ebbb7a1adf078d2cad3b8.m3u8
+苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-3.m3u8
+苏州新闻综合,https://stream1.freetv.fun/4f8bc68be9afbec05026641430a19dd462b7b2aa9fff8e01e2057af87c65d4df.m3u8
+苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
+苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-2.m3u8
+苏州生活资讯,https://stream1.freetv.fun/6552a7799d25c631a086b99ae0477bf57f95071f22ea714670af461db1d90f85.m3u8
+苏州社会经济,https://stream1.freetv.fun/559c2bb359f77fce4c299f29e185919aebf91fa3648ead1846cf573abdb762f8.m3u8
+苏州社会经济,https://stream1.freetv.fun/0aedec2d0f2776491d067c88c3b1517b10fabce1fa49249bcb0bf46254c190a6.m3u8
+
+
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-5.m3u8
 苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
