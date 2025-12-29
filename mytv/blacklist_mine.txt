@@ -4,3 +4,12 @@ my_blacklist,#genre#
 苏州新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0811&tk=e503191f8e20
 苏州新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1544&tk=e640d0a1bf70
 苏州新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7321&tk=b53028476470
+
+苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
+苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-5.m3u8
+苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
+苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
+苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
+苏州电影娱乐,https://stream1.freetv.fun/su-zhou-dian-ying-yu-le-xin-xi-1.m3u8
+苏州电影娱乐,https://stream1.freetv.fun/su-zhou-dian-ying-yu-le-xin-xi-2.ctv
+苏州4k,https://stream1.freetv.fun/su-zhou-1.m3u8
