@@ -42,8 +42,9 @@ def read_blacklist_from_txt(file_path):
 
 blacklist_auto=read_blacklist_from_txt('assets/blacklist1/blacklist_auto.txt') 
 blacklist_manual=read_blacklist_from_txt('assets/blacklist1/blacklist_manual.txt') 
-# combined_blacklist = list(set(blacklist_auto + blacklist_manual))
-combined_blacklist = set(blacklist_auto + blacklist_manual)  #list是个列表，set是个集合，据说检索速度集合要快很多。2024-08-08
+blacklist_mine=read_blacklist_from_txt('mytv/blacklist_mine.txt')
+# combined_blacklist = list(set(blacklist_auto + blacklist_manual + blacklist_mine))
+combined_blacklist = set(blacklist_auto + blacklist_manual + blacklist_mine)  #list是个列表，set是个集合，据说检索速度集合要快很多。2024-08-08
 
 # 定义多个对象用于存储不同内容的行文本
 sh_lines = []
