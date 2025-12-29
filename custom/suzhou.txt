@@ -12,24 +12,24 @@ SuZhou,#genre#
 苏州社会经济,https://stream1.freetv.fun/0aedec2d0f2776491d067c88c3b1517b10fabce1fa49249bcb0bf46254c190a6.m3u8
 
 
-苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
+#苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 #苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-5.m3u8
 #苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
-苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
-苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
-苏州电影娱乐,https://stream1.freetv.fun/su-zhou-dian-ying-yu-le-xin-xi-1.m3u8
-苏州电影娱乐,https://stream1.freetv.fun/su-zhou-dian-ying-yu-le-xin-xi-2.ctv
-苏州4k,https://stream1.freetv.fun/su-zhou-1.m3u8
+#苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
+#苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
+#苏州电影娱乐,https://stream1.freetv.fun/su-zhou-dian-ying-yu-le-xin-xi-1.m3u8
+#苏州电影娱乐,https://stream1.freetv.fun/su-zhou-dian-ying-yu-le-xin-xi-2.ctv
+#苏州4k,https://stream1.freetv.fun/su-zhou-1.m3u8
 
 #苏州新闻综合,http://61.155.203.93:5021/live_hls/1/.m3u8
 #苏州社会经济,http://61.155.203.93:5021/live_hls/2/.m3u8
 #苏州文化生活,http://61.155.203.93:5021/live_hls/3/.m3u8
 #苏州生活资讯,http://61.155.203.93:5021/live_hls/4/.m3u8
 
-苏州新闻综合,rtmp://csztv.2500sz.com/live/c01
-苏州社会经济,rtmp://csztv.2500sz.com/live/c02
-苏州文化生活,rtmp://csztv.2500sz.com/live/c03
-苏州生活资讯,rtmp://csztv.2500sz.com/live/c04
+#苏州新闻综合,rtmp://csztv.2500sz.com/live/c01
+#苏州社会经济,rtmp://csztv.2500sz.com/live/c02
+#苏州文化生活,rtmp://csztv.2500sz.com/live/c03
+#苏州生活资讯,rtmp://csztv.2500sz.com/live/c04
 
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
