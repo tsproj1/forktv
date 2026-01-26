@@ -12,6 +12,15 @@ SuZhou,#genre#
 苏州社会经济,https://stream1.freetv.fun/0aedec2d0f2776491d067c88c3b1517b10fabce1fa49249bcb0bf46254c190a6.m3u8
 
 
+苏州新闻综合,https://t.freetv.fun/live/su-zhou-xin-wen-zong-he.m3u8
+苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji.m3u8
+苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
+苏州电影娱乐,https://t.freetv.fun/live/su-zhou-dian-ying-yu-le-xin-xi-1.flv
+苏州电影娱乐,https://t.freetv.fun/live/su-zhou-yu-le.m3u8
+苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun.m3u8
+
+
+
 #苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 #苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-5.m3u8
 #苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
