@@ -1,0 +1,6 @@
+my_blacklist,#genre#
+苏州新闻综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=szxwzh
+苏州新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0325&tk=a0c4f6cfaba3
+苏州新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0811&tk=e503191f8e20
+苏州新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1544&tk=e640d0a1bf70
+苏州新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7321&tk=b53028476470

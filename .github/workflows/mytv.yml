@@ -1,0 +1,69 @@
+name: 'My Daily Job'
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # UTC
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'production'
+
+jobs:
+  run_job:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install opencc-python-reimplemented
+        
+    - name: Run Python script
+      run: python mytv/main.py
+      
+    # - name: Upload generated files
+    #   uses: actions/upload-artifact@v4
+    #   with:
+    #     name: generated-files
+    #     path: |
+    #       merged_output.txt
+    #       others_output.txt
+          
+    - name: Commit changes
+      run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          #git add merged_output.txt merged_output.m3u merged_output_simple.txt merged_output_simple.m3u others_output.txt
+          #git add live.txt live.m3u live_lite.txt live_lite.m3u
+          git add mytv/.
+          git commit -m ":tada:  LocalAutoUpdate $(date +'%Y%m%d')"
+
+          current_datetime=$(date +"%Y%m%d_%H%M%S")
+          # cp merged_output.txt history/"${current_datetime}_merged_output.txt"
+          # cp others_output.txt history/"${current_datetime}_others_output.txt"
+          # git add history/"${current_datetime}_merged_output.txt"
+          # git add history/"${current_datetime}_others_output.txt"
+          # git commit -m "Archive file with timestamp"
+
+          # 将归档文件打包zip文件
+          #zip_filename="history/${current_datetime}_archive_output.zip"
+          #zip -j "${zip_filename}" merged_output.txt others_output.txt
+          #git add "${zip_filename}"
+          #git commit -m "Archive zipfile: ${current_datetime}"
+          
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    
+        
