@@ -2,25 +2,14 @@ CNN International (720p),https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c6
 CNN International (1080p),https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8
 CNN International,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 NBC News NOW (1080p),https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_5.m3u8
-LiveNow from Fox (1080p),https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/3.m3u8
 Sky News (1080p),https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
 ABC News Australia (720p),https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-CBC News (1080p),https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
 Al Jazeera English (1080p),https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 NewsMax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-半岛新闻,https://litv.zapi.us.kg/?id=litv-ftv10
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
-BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-DW News,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-DW News,http://37.27.111.214:8080/live/46/hls.m3u8
-FRANCE24 English,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
 BAND NEWS,https://stream1.freetv.fun/band-news-2.ctv

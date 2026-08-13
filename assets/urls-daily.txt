@@ -1,5 +1,6 @@
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit
 --http://live.nctv.top/x.txt
 --http://43.251.226.89:8080/live.txt
 http://ku9.fr.to/ku9/1768502278.txt

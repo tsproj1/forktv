@@ -1,4 +1,5 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 TVB新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 TVB翡翠4K,http://rihou.cc:555/tv/[Pd]无线翡4k
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
@@ -12,6 +13,17 @@ HOY77,http://rihou.cc:555/tv/[Pd]有线综合
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+NOW新闻台,https://cdn.123.rr.kg/163189/now
+NOW新闻台,https://cdn.qd.je/163189.php?id=now
+NOW新闻台,https://cdn.19891230.eu.org/hk/now-332/index.m3u8
+NOW财经台,https://cdn.19891230.eu.org/hk/now-333/index.m3u8
+Now直播台,https://cdn.19891230.eu.org/hk/now-331/index.m3u8
+Now Sports Prime,https://cdn.19891230.eu.org/hk/now-630/index.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+HOY76,https://cdn11.123.rr.kg/163189/hoy76
+HOY77,https://cdn.123.rr.kg/163189/hoy
+HOY78,https://cdn.123.rr.kg/163189/hoy78
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -24,3 +36,21 @@ HOY77,http://rihou.cc:555/tv/[Pd]有线综合
 翡翠台,https://stream1.freetv.fun/fei-cui-9.m3u8
 翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+鳳凰衛視中文台,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/pxinhd_iphone.m3u8
+鳳凰衛視資訊台,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/pxinhd_iphone.m3u8
+鳳凰衛視美洲台,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/pxnaus_iphone.m3u8
+鳳凰衛視香港台,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/pxhkus_iphone.m3u8
+北美焦点新闻台,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/qljdhd_iphone.m3u8
+北美美食播客,https://0a73-927f-c5b9-8335.kylintv.tv/live/bmmssp_iphone.m3u8
+北美生活视频,https://0a73-927f-c5b9-8335.kylintv.tv/live/bmshsp_iphone.m3u8
+CH5,https://cdn6.123.rr.kg/163189/ch5
+CH8,https://cdn6.123.rr.kg/163189/ch8
+CHU,https://cdn6.123.rr.kg/163189/chu
+天映频道,https://cdn10.123.rr.kg/163189/typd/
+天映频道,http://173.208.234.146/live/typd.m3u8
+天映经典,https://cdn10.123.rr.kg/163189/ccm/
+澳視澳門,https://cdn6.123.rr.kg/163189/asam
+澳視衛星,https://cdn6.123.rr.kg/163189/as
+澳門體育,https://cdn6.123.rr.kg/163189/amty
+澳門綜藝,https://cdn6.123.rr.kg/163189/amzy
+澳門蓮花,https://cdn6.123.rr.kg/163189/amlh

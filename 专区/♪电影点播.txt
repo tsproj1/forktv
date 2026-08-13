@@ -14,7 +14,6 @@
 僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8
 僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/index.m3u8
 解救吾先生,https://vip.ffzy-play.com/20221017/1618_2e6027ee/index.m3u8
-精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
 精装追女仔,https://vip.ffzy-play7.com/20221115/4686_d56a5b6c/index.m3u8
 精装追女仔之2,https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
 精装追女仔之3狼之一族,https://vip.ffzy-play6.com/20221129/9346_67ee848d/index.m3u8
@@ -50,7 +49,6 @@
 龙在边缘,https://vip.ffzy-play.com/20221017/1754_95490c99/index.m3u8
 龙在江湖,https://vip.ffzy-play.com/20221017/1755_28d3688d/index.m3u8
 龙之家族,https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
-冒险王,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
 门徒,https://vip.ffzy-play.com/20221017/1787_03664048/index.m3u8
 猛鬼旅行团,https://vip.ffzy-play6.com/20221129/9331_792c1e13/index.m3u8
 猛鬼旅行团,https://vip.ffzy-play6.com/20221207/10600_7cbfb482/index.m3u8
@@ -60,7 +58,6 @@
 摩登年代,https://vip.ffzy-play6.com/20221021/516_0ef76f45/index.m3u8
 墨攻,https://vip.ffzy-play2.com/20221022/308_7d10fa04/index.m3u8
 幕后玩家,https://vip.ffzy-play.com/20221018/1847_f9676687/index.m3u8
-南北少林,https://cdn2.yzzy-tv-cdn.com/20220428/16621_c12279b7/index.m3u8
 你好北京,https://vip.ffzy-play7.com/20230416/22452_5318e52a/index.m3u8
 攀登者,https://vip.ffzy-play7.com/20221111/3124_7cca31fc/index.m3u8
 霹雳大喇叭,https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/index.m3u8
@@ -84,10 +81,8 @@
 三国之见龙卸甲,https://vip.ffzy-play6.com/20221022/935_ffb2fe05/index.m3u8
 扫毒2,https://vip.ffzy-play6.com/20221111/5625_f06cc476/index.m3u8
 杀手的童话,https://vip.ffzy-play7.com/20221112/3690_803bfb83/index.m3u8
-杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
 上海红美丽,https://vip.ffzy-play6.com/20221126/8466_47514053/index.m3u8
 上海十三太保,https://vip.ffzy-play.com/20221018/2001_3ef7be69/index.m3u8
-少林寺,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
 少林小子,https://vip.ffzy-play7.com/20230216/14926_434969e4/index.m3u8
 少林英雄,https://vip.ffzy-play6.com/20221206/10385_35db0937/index.m3u8
 少林木人巷,https://vip.ffzy-play6.com/20221128/9115_ff8a121e/index.m3u8
@@ -108,7 +103,6 @@
 说出你的秘密,https://vip.ffzy-play6.com/20221112/6077_927afdf1/index.m3u8
 私人订制,https://vip.ffzy-play6.com/20221019/192_52684124/index.m3u8
 算死草,https://vip.ffzy-play6.com/20221112/6085_3636efbb/index.m3u8
-太极张三丰,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
 逃学威龙2,https://vip.ffzy-play6.com/20221112/6101_3ea56df6/index.m3u8
 逃学威龙3之龙过鸡年,https://vip.ffzy-play6.com/20221112/6103_d6c1afdb/index.m3u8
 桃花运,https://vip.ffzy-play7.com/20230204/13202_2844d10a/index.m3u8
@@ -123,7 +117,6 @@
 天下无贼,https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
 天与地,https://vip.ffzy-play6.com/20221112/6144_016eb00a/index.m3u8
 铜雀台,https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
-投名状,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
 顽主,https://vip.ffzy-play7.com/20221115/4578_af3f092c/index.m3u8
 旺角卡门,https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
 卫斯理之蓝血人,https://vip.ffzy-play6.com/20221020/234_4fc21f9b/index.m3u8
@@ -147,7 +140,6 @@
 咸鱼翻身,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/index.m3u8
 消失的女人,https://vip.ffzy-online2.com/20230521/37660_a7ca3135/index.m3u8
 笑傲江湖1,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
-笑傲江湖2:东方不败,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
 笑拳怪招,https://vip.ffzy-play6.com/20221128/9213_05050bb8/index.m3u8
 心花路放,https://vip.ffzy-play6.com/20221027/2366_e83b4d22/index.m3u8
 辛亥革命,https://vip.ffzy-play6.com/20221021/591_72533d75/index.m3u8
@@ -211,15 +203,12 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 爱情神话,https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
 暗战,https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
 澳门风云1,https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
-澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
-澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
 八星报喜,https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
 霸王别姬,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
 白蛇传说,https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
 半生缘,https://vip.ffzy-play7.com/20221112/3733_3f971a67/index.m3u8
 玻璃樽,https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
 宝贝计划,https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
-不二神探,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
 不见不散,https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
 超级计划,https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
 超时空同居,https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
@@ -233,7 +222,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 刀剑笑,https://vip.ffzy-play7.com/20221112/3808_6690be34/index.m3u8
 狄仁杰之通天帝国,https://vip.ffzy-play2.com/20221021/129_ed646884/index.m3u8
 第三个人,https://vip.ffzy-play7.com/20230407/21350_043ad4f7/index.m3u8
-刁手怪招,https://cdn7.yzzy-tv-cdn.com/20220625/561_337bba55/index.m3u8
 喋血双雄,https://vip.ffzy-play7.com/20221115/4440_bd914a4d/index.m3u8
 东方巨龙,https://vip.ffzy-play6.com/20221117/7362_01e144e6/index.m3u8
 东方秃鹰,https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/index.m3u8
@@ -241,10 +229,8 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 赌城大亨之新哥传奇,https://vip.ffzy-online.com/20221017/864_5fbb1d87/index.m3u8
 赌城大亨II之至尊无敌,https://vip.ffzy-online.com/20221017/863_ed22c0c3/index.m3u8
 赌神1,https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
-赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
 赌侠大战拉斯维加斯,https://vip.ffzy-online.com/20221017/873_cf765959/index.m3u8
 法内情,https://vip.ffzy-play6.com/20221128/8900_ee5eabf3/index.m3u8
-方世玉,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
 方世玉续集,https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
 飞龙猛将,https://vip.ffzy-play6.com/20221207/10806_a4b679fd/index.m3u8
 飞龙再生,https://vip.ffzy-play6.com/20221019/72_1934eddc/index.m3u8
@@ -259,7 +245,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 富贵列车,https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
 肝胆相照,https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
 搞定岳父大人,https://vip.ffzy-play6.com/20221021/474_a64f2156/index.m3u8
-给爸爸的信,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
 功夫瑜伽,https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8
 孤男寡女,https://vip.ffzy-play6.com/20221021/643_da3f8354/index.m3u8
 古董局中局,https://vip.ffzy-online.com/20221017/983_2bd33011/index.m3u8
@@ -275,7 +260,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 黑侠,https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
 红番区,https://vip.ffzy-play6.com/20221112/6346_239e11e8/index.m3u8
 洪熙官,https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/index.m3u8
-花木兰,https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
 花旗少林,https://vip.ffzy-play6.com/20221112/6363_411e98e2/index.m3u8
 哗！英雄,https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
 画皮之阴阳法王,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/index.m3u8
@@ -283,6 +267,3 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 黄大仙,https://vip.ffzy-play6.com/20221129/9334_1b618e68/index.m3u8
 黄飞鸿92之龙行天下,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
 黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
-黄飞鸿之铁鸡斗蜈蚣,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
-黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
-黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8

@@ -35,6 +35,19 @@ def read_txt_to_array(file_name):
         print(f"An error occurred: {e}")
         return []
 
+
+def save_lines_to_txt(lines, file_name):
+    """将字符串行列表保存为 TXT 文件。"""
+    parent_dir = os.path.dirname(file_name)
+    if parent_dir:
+        os.makedirs(parent_dir, exist_ok=True)
+
+    with open(file_name, 'w', encoding='utf-8') as f:
+        for line in lines:
+            f.write(line + '\n')
+
+    print(f"已保存: {file_name}")
+
 #read BlackList 2024-06-17 15:02
 def read_blacklist_from_txt(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -825,6 +838,10 @@ hb_lines = hb_lines + read_txt_to_array('手工区/湖北频道.txt')
 sh_lines = sh_lines + read_txt_to_array('手工区/上海频道.txt')
 jsu_lines = jsu_lines + read_txt_to_array('手工区/江苏频道.txt')
 
+
+# 
+
+
 # 瘦身版
 #              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
 #             ["🏈体育赛事🏆️,#genre#"] + normalized_tyss_lines + ['\n'] + \
@@ -947,8 +964,8 @@ output_file_simple = "merged_output_simple.txt"
 others_file = "others_output.txt"
 
 # NEW将合并后的文本写入文件
-new_output_file = "bbxx.txt"
-new_output_file_simple = "bbxx_lite.txt"
+new_output_file = "bbxx365.txt"
+new_output_file_simple = "bbxx365_lite.txt"
 
 # # custom定制
 # output_file_custom_zhang = "custom/zhang.txt"
@@ -960,10 +977,7 @@ try:
     #         f.write(line + '\n')
     # print(f"合并后的文本已保存到文件: {output_file_simple}")
 
-    with open(new_output_file_simple, 'w', encoding='utf-8') as f:
-        for line in all_lines_simple:
-            f.write(line + '\n')
-    print(f"合并后的文本已保存到文件: {new_output_file_simple}")
+    save_lines_to_txt(all_lines_simple, new_output_file_simple)
 
     # 全集版
     # with open(output_file, 'w', encoding='utf-8') as f:
@@ -971,16 +985,10 @@ try:
     #         f.write(line + '\n')
     # print(f"合并后的文本已保存到文件: {output_file}")
 
-    with open(new_output_file, 'w', encoding='utf-8') as f:
-        for line in all_lines:
-            f.write(line + '\n')
-    print(f"合并后的文本已保存到文件: {new_output_file}")
+    save_lines_to_txt(all_lines, new_output_file)
 
     # 其他
-    with open(others_file, 'w', encoding='utf-8') as f:
-        for line in other_lines:
-            f.write(line + '\n')
-    print(f"Others已保存到文件: {others_file}")
+    save_lines_to_txt(other_lines, others_file)
 
     # 定制
     # with open(output_file_custom_zhang, 'w', encoding='utf-8') as f:

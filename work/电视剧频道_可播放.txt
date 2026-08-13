@@ -1,3 +1,4 @@
+电视剧频道,#genre#
 知否知否应是绿肥红瘦,https://live.ottiptv.cc/yy/21881901
 庆余年,https://live.ottiptv.cc/huya/11352960
 你是我的荣耀,http://live.ottiptv.cc/huya/11352920
@@ -133,9 +134,3 @@
 83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
 三国演义【1994】,https://live.ottiptv.cc/yy/1354930932
 大江大河2-高分影视推荐,https://live.ottiptv.cc/yy/1382736797
-滇军抗战,https://live.metshop.top/huya/11342388
-联合抗日,https://live.metshop.top/huya/11352910
-三国,https://live.metshop.top/huya/11352944
-雍正皇帝,https://live.metshop.top/huya/11342439
-士兵突击,https://live.metshop.top/huya/11342430
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8

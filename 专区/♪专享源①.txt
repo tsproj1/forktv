@@ -1,44 +1,15 @@
-📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
 黄百鸣,http://74.91.26.218:82/live/vlhbm.m3u8
 周润发,http://74.91.26.218:82/live/vlzrf.m3u8
 
-HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
-中国电影,http://bx.757888.xyz/api.php?id=zgdy
 
 ▶️哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
-▶️后天,https://m3u8.hmrvideo.com/play/0c8022a5af3d452698ff2f32d2a4a3de.m3u8
-▶️2012,https://m3u8.hmrvideo.com/play/a9f7a721d9eb4c76b74790f719996a29.m3u8
-▶️铃芽之旅（日语原声）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/798/5105137798/media/5105137798_5195915769_56.mp4
-▶️铃芽之旅（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/205/437/5105205437/media/5105205437_5195916136_56.mp4
-▶️阿凡达：水之道,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5101/004/544/5101004544/media/5101004544_5091261956_56.mp4
-▶️阿凡达：水之道（普通话）,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/080/728/5105080728/media/5105080728_5091264010_56.mp4
-▶️(2024)阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
-▶️(2024)哥斯拉大战金刚2：帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
-▶️(2024)绝地战警：生死与共,https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
-▶️(2024)异形寄生:起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
-▶️(2024)狄仁杰之天宫蜃楼,https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
-▶️(2024)鬼舞村：詛咒起源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
-▶️星际穿越,https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
-▶️明日边缘,http://nas.dylove.xyz:35455/yy/1382736835
 ▶️美国队长,https://www.goodiptv.club/yy/1382736813
-▶️变形金刚,https://lunbo.freetv.top/yy/1382736803
 ▶️毒液：致命守护者,https://www.goodiptv.club/yy/1382745095
-▶️魔戒首部曲：魔戒現身,https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
 ▶️魔戒首部曲：魔戒現身,https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
-▶️魔戒首部曲：魔戒現身,https://vip.kuaikan-cdn4.com/20240220/k2bjbEoB/898kb/hls/index.m3u8
-▶️魔戒二部曲：雙城奇謀,https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
 ▶️魔戒二部曲：雙城奇謀,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
-▶️魔戒三部曲：王者再臨,https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
-▶️魔戒三部曲：王者再臨,https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8
-▶️哈利波特：死神的聖物Ⅰ,https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8
-▶️哈利波特：消失的密室,https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8
-▶️哈利波特：混血王子的背叛,https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8
-▶️哈利波特：火盃的考驗,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
-▶️哈利波特：神秘的魔法石,https://s2.fsvod1.com/20220301/A2jwRRDZ/index.m3u8
-▶️哈利波特：鳳凰會的密令,https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
 ▶️我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 ▶️让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 ▶️英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
@@ -47,7 +18,6 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 🔀功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 🔀国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
 🔀唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
-🔀唐伯虎点秋香,https://v3.dious.cc/20220419/fgAtfUew/index.m3u8
 🔀逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
 🔀食神,https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
 🔀鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
@@ -63,5 +33,4 @@ HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 ▶️霸王别姬,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
 ▶️卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
 ▶️无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
-▶️无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
 ▶️无间道3：终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
