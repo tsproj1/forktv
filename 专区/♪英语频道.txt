@@ -14,3 +14,28 @@ ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
 BAND NEWS,https://stream1.freetv.fun/band-news-2.ctv
 BAND NEWS,https://stream1.freetv.fun/band-news-1.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,https://jmp2.uk/stvp-ESBD190000137
+CNN,http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052462.ts
+CNN,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34577
+CNN,http://fastrunner.live:8080/live/LXdVGQ2ulN/2YV8Pnu7e9/568.ts
+CNN,http://kytv.xyz:80/live/brendan1/brendan1/1846753.ts
+CNN,http://primestreams.tv:826/live/TammyMccready/eGj6lFxVyG/1347.ts
+CNN,https://jmp2.uk/stvp-GBBD8000016N
+CNN,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102155.ts
+CNN,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105877.ts
+CNN,https://jmp2.uk/stvp-DEBD800001S4
+CNN,https://jmp2.uk/stvp-CHBD800001D0
+CNN,https://jmp2.uk/stvp-ATBD800001VA
+CNN,http://lunar.pm:8080/live/kita/Twin/104092.ts
+CNN,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6499/index.m3u8
+BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
+VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡国际,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://primestreams.tv:826/live/TammyMccready/eGj6lFxVyG/119453.ts
+CNA,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/112852.ts
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://ysift55.xyz/live/52TLK6U/TNLMRY9/1052455.ts

@@ -23,3 +23,26 @@
 纪录|Foodnetwork Hd,http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1752629214236
 纪录|HGTV,http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236
 纪录|亚洲旅游,http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236
+人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+舌尖上的中国第一季,https://live.ottiptv.cc/yy/1354930952
+舌尖上的中国第2季,https://live.ottiptv.cc/yy/1354930943
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
+动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-1.m3u8
+动物星球,https://t.freetv.fun/live/dong-wu-xing-qiu-1.m3u8
+动物星球,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34889
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+国家地理,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34877
+国家地理,http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
+老广的味道 第3季-美食纪录片,https://live.ottiptv.cc/yy/1382735565
+一分钟学道菜,https://live.ottiptv.cc/yy/1382736901
+Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
+中国味道 第4季-美食纪录片,https://live.ottiptv.cc/yy/1382736845
+易中天品三国,https://live.ottiptv.cc/yy/1354931498
+百家讲坛-红楼梦篇,https://live.ottiptv.cc/yy/1382741639
+百家讲坛――之明太祖朱元璋,https://live.ottiptv.cc/yy/1354936149
+单挑荒野第一季,https://live.ottiptv.cc/yy/1354933535
+航拍中国第一季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8

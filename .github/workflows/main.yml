@@ -36,14 +36,15 @@ jobs:
       with:
         name: generated-files
         path: |
-          bbxx.txt
+          bbxx365.txt
           others_output.txt
+          work/*.txt
           
     - name: Commit changes
       run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add bbxx.txt bbxx.m3u bbxx_lite.txt bbxx_lite.m3u others_output.txt tiyu.html
+          git add bbxx365.txt bbxx365.m3u bbxx365_lite.txt bbxx365_lite.m3u others_output.txt tiyu.html work/*.txt
           git commit -m ":tada:  AutoUpdate $(date +'%Y%m%d')"
 
           current_datetime=$(date +"%Y%m%d_%H%M%S")

@@ -31,6 +31,11 @@
 ![image](./assets/gongzhonghao+appreciate2025.png)
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
+<a href="https://www.star-history.com/?repos=kimwang1978%2Fcollect-tv-txt&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kimwang1978/collect-tv-txt&type=date&theme=dark&legend=top-left&sealed_token=FXNmlgm9_NdENxCG2-JwjPkhMx9jYs1W_TeqnV7ntDwHfEbpCiTAwedfZjMXRkOs7AsdhR2gyEpamq0JdrBCVmsYDZwPEmKDm7YhKfMfM9YIKtSSQt4iIIWwZK_qofjB1vQV2wrMbCDG7Evi3gUgK4Mx_Kea7h9QbWw-S6h4HgaTzlwH3hhDIWn8fGvJ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kimwang1978/collect-tv-txt&type=date&legend=top-left&sealed_token=FXNmlgm9_NdENxCG2-JwjPkhMx9jYs1W_TeqnV7ntDwHfEbpCiTAwedfZjMXRkOs7AsdhR2gyEpamq0JdrBCVmsYDZwPEmKDm7YhKfMfM9YIKtSSQt4iIIWwZK_qofjB1vQV2wrMbCDG7Evi3gUgK4Mx_Kea7h9QbWw-S6h4HgaTzlwH3hhDIWn8fGvJ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kimwang1978/collect-tv-txt&type=date&legend=top-left&sealed_token=FXNmlgm9_NdENxCG2-JwjPkhMx9jYs1W_TeqnV7ntDwHfEbpCiTAwedfZjMXRkOs7AsdhR2gyEpamq0JdrBCVmsYDZwPEmKDm7YhKfMfM9YIKtSSQt4iIIWwZK_qofjB1vQV2wrMbCDG7Evi3gUgK4Mx_Kea7h9QbWw-S6h4HgaTzlwH3hhDIWn8fGvJ" />
+ </picture>
+</a>
 
