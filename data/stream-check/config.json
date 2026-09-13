@@ -1,0 +1,25 @@
+{
+  "retryHours": {
+    "timeout": 12,
+    "server_error": 24,
+    "not_found": 168,
+    "connection_error": 168,
+    "no_signal": 168,
+    "other": 24
+  },
+  "staleRecordDays": 90,
+  "longFailure": {
+    "minFailCount": 5,
+    "minFailureDays": 7,
+    "retryHours": 720,
+    "strongReasons": ["not_found", "connection_error", "no_signal"]
+  },
+  "hostReputation": {
+    "minDistinctUrls": 10,
+    "minObservationDays": 2,
+    "minStrongFailures": 8,
+    "temporarySkipHours": 72,
+    "candidateReviewDays": 30,
+    "historyDays": 90
+  }
+}

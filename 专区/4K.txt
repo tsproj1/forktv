@@ -1,12 +1,9 @@
-
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-
-
-
-
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
 深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
-
-
+广东卫视4K,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001540/index.m3u8?streamid=33aeafbb59f2bcb1877c3a8229c0135b&streamkey=0AGMO6LiBIxyH4UUBGZSecN0VLptakvTRcCBdKPsgZ5LvjIJtZ6lVmakn2xtYKNlvaZmadVnIW0Ur7nROOy5lbmQHqDT5XsDIAlz3aket1LK13kwaGDOHJf9U7zQSS6b&token=1775753804-a378e51446e90f3d-0-831fa09b2b3eafcffbd9550a9e04cf4d
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+CCTV4K,http://107.150.52.50:82/live/cctv4k.m3u8
