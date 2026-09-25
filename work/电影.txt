@@ -6,7 +6,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://69.30.245.50/live/chcjt.m3u8
 CHC家庭影院,http://fn.gcl.de5.net:5908/gsh950428/644368373
 CHC家庭影院,http://2280.eu.org:1234/644368373
-CHC家庭影院,http://121.4.119.229:80/644368373
+CHC家庭影院,http://112.11.122.190:58503/644368373
 CHC家庭影院,http://223.82.161.157:899/hls/53/index.m3u8
 CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 CHC家庭影院,http://120.236.126.156:55455/mgtv/644368373.m3u8
@@ -78,8 +78,7 @@ CHC动作电影,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 CHC动作电影,http://69.30.245.50/live/chcdz.m3u8
 CHC动作电影,http://fn.gcl.de5.net:5908/gsh950428/644368714
 CHC动作电影,http://2280.eu.org:1234/644368714
-CHC动作电影,http://121.4.119.229:80/644368714
-CHC动作电影,http://120.198.86.186:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.11.122.190:58503/644368714
 CHC动作电影,http://223.82.161.157:899/hls/54/index.m3u8
 CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 CHC动作电影,http://120.236.126.156:55455/mgtv/644368714.m3u8
@@ -166,10 +165,10 @@ CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-21.ctv
 CHC影迷电影,http://69.30.245.50/live/chcym.m3u8
 CHC影迷电影,http://fn.gcl.de5.net:5908/gsh950428/952383261
 CHC影迷电影,http://2280.eu.org:1234/952383261
-CHC影迷电影,http://121.4.119.229:80/952383261
-CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=d5c48d16f10a0b4d58980407245247bb&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260924055106&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=39.103.188.159&SecurityKey=20260924055106&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d95ca26e12d36fe91f303d7bf1b395f1&ddCalcu=1df9v55a9ca3aab216feb172dd33063ffe19&sv=10004&ct=android
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=4d43f3d2817b89b26900128af3317e5c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260925075107&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=39.103.188.159&SecurityKey=20260925075107&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2c0a6311f0019b74288b60a3f5b44139&ddCalcu=923cv10a4aa46ab351f13fa00061b98b8724&sv=10004&ct=android
+CHC影迷电影,http://112.11.122.190:58503/952383261
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=20260924060315d2cd8fe4e1ab47e0b278ae520084033f&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260924060315&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260924060315&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fcb75005b044e9118c195eb9b8f95ac5
+CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=20260924220314d1d5acf67aa44431b88a3bdf997905e6&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260924220314&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260924220314&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=df5e650a7bcc96b34b7266aefbcbfb7e
 CHC影迷电影,http://223.82.161.157:899/hls/51/index.m3u8
 CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 CHC影迷电影,http://120.236.126.156:55455/mgtv/952383261.m3u8
@@ -181,6 +180,7 @@ CHC影迷电影,http://47.104.178.59:3566/952383261
 CHC影迷电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
 CHC影迷电影,http://111.228.4.117:6789/migu720p.php?id=952383261
 CHC影迷电影,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
+CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2026092506031436e9087ae0fa4ea8b54edf2c08cd5dff&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260925060314&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260925060314&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e384df248f32ae84a603babe8d7d861e
 CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
 CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 CHC影迷电影,https://stream1.freetv.fun/ipv6-chcying-mi-dian-ying-10.m3u8
@@ -316,13 +316,13 @@ Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5620&tk=e640d0a1bf70
 经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
 经典电影,https://goodiptv.club/douyu/6091425
 经典电影,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
-经典电影,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
-经典电影,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典电影,rtp://239.3.1.195:9024
 经典电影,http://114.252.238.87:8000/udp/239.3.1.195:9024
 经典电影,http://61.163.181.78:9901/tsfile/live/1059_1.m3u8
 经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
+经典电影,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
+经典电影,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典电影,http://60.172.130.146:352/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://wouu.net:9977/udp/239.93.0.57:9024
@@ -399,7 +399,6 @@ Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5620&tk=e640d0a1bf70
 拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
-电影_赛车,https://lbds.us.ci/11279247
 电影_赛车,http://live.nctv.top/huya.php?id=11279247
 电影_赛车,http://1.14.124.206:35455/huya/11279247
 电影_赛车,http://8.155.43.98:35455/huya/11279247
