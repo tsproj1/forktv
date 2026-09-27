@@ -1,9 +1,7 @@
 北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
 北京卫视4K,http://101.35.240.114:88/live.php?id=北京卫视
 北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
-深圳卫视4K,http://work.ruibang.ltd:5140/%E6%B7%B1%E5%9C%B3/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K%28HDR%29
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
-深圳卫视4K,http://work.ruibang.ltd:5140/%E6%B7%B1%E5%9C%B3/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K%28SDR%29
 深圳卫视4K,http://101.35.240.114:88/live.php?id=深圳卫视4K
 广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
 北京纪实8K,http://101.35.240.114:88/brtv8k.php
