@@ -87,5 +87,6 @@
 电影_贺岁,https://live.iill.top/huya/11601971
 电影_贺岁,http://124.248.69.76:26781/huya/11601971
 电影_贺岁片,https://lbds.us.ci/11601986
+电影_贺岁片,http://live.metshop.top/huya/11601971?cdn=alicdn
 电影_贺岁片,https://live.metshop.top/huya/11601986
 电影_贺岁片,http://live.nctv.top/huya.php?id=11601986
