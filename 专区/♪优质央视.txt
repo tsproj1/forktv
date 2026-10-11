@@ -1722,3 +1722,6 @@ CCTV9576,https://xykt-fix.github.io/Y77.m3u8
 CCTV10576,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV★移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 CCTV-NEWS,http://183.11.239.36:808/hls/34/index.m3u8
+
+
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
