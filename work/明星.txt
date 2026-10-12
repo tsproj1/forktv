@@ -8,6 +8,7 @@
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
 黄渤,http://1.94.31.214:35455/huya/11352876
 甄子丹,http://124.248.69.76:26781/huya/11352935
+电影_黄渤,https://lbds.us.ci/11352876
 电影_周星星,https://lbds.us.ci/11336587
 电影_成龙,https://lbds.us.ci/11342386
 电影_洪金宝,https://lbds.us.ci/11279251
@@ -19,4 +20,3 @@
 电影_梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
 电影_梁家辉,http://124.248.69.76:26781/huya/11342429
 电影_刘德华,https://lbds.us.ci/11342424
-电影_刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn

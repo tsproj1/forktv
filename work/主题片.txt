@@ -1,9 +1,11 @@
 功夫片,http://124.248.69.76:26781/huya/11352941
 灾难片,https://live.metshop.top/huya/11602075
 灾难片,http://124.248.69.76:26781/huya/11602075
+电影_怪兽,https://lbds.us.ci/21059577
 电影_怪兽,http://124.248.69.76:26781/huya/21059577
 电影_喜乐影院,https://lbds.us.ci/21059580
 电影_喜乐影院,http://124.248.69.76:26781/huya/21059580
+电影_喜剧专场,https://lbds.us.ci/11602044
 电影_救援,http://124.248.69.76:26781/huya/21059594
 电影_玄幻,https://lbds.us.ci/11342414
 电影_玄幻,http://124.248.69.76:26781/huya/11342414
@@ -22,6 +24,7 @@
 电影_丧尸片,https://lbds.us.ci/21059578
 电影_丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
 电影_丧尸片,http://124.248.69.76:26781/huya/21059578
+电影_动作电影,https://lbds.us.ci/11602077
 电影_动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
 电影_战争片,https://lbds.us.ci/21059574
 电影_战争片,http://124.248.69.76:26781/huya/21059574
@@ -31,10 +34,13 @@
 电影_枪战,https://lbds.us.ci/21059579
 电影_热血,https://lbds.us.ci/11352934
 电影_经典女神,https://lbds.us.ci/11352909
+电影_许氏三杰,https://lbds.us.ci/11602033
 电影_谍战,https://lbds.us.ci/21059585
 电影_谍战,http://124.248.69.76:26781/huya/21059585
+电影_谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 电影_谍战片,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影_贺岁,https://lbds.us.ci/11601971
 电影_贺岁,http://124.248.69.76:26781/huya/11601971
-电影_贺岁片,http://live.metshop.top/huya/11601971?cdn=alicdn
+电影_贺岁片,https://lbds.us.ci/11601986
 电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_贺岁片,http://live.metshop.top/huya/11601971?cdn=alicdn

@@ -27,6 +27,7 @@
 寻秦记,https://lbds.us.ci/29465848
 封神榜,https://live.metshop.top/huya/29465849
 封神榜,https://live.ottiptv.cc/huya/29465849
+封神榜,https://lbds.us.ci/29465849
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 父母爱情,https://live.ottiptv.cc/yy/1354926650
 三国演义,https://live.ottiptv.cc/huya/11602081
@@ -45,7 +46,9 @@
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
 大时代,https://live.metshop.top/huya/23865161
+大时代,https://lbds.us.ci/23865161
 陀枪师姐,https://live.metshop.top/huya/29465857
+陀枪师姐,https://lbds.us.ci/29465857
 陀枪师姐,http://124.248.69.76:26781/huya/23860039
 狂飙,https://live.ottiptv.cc/yy/1355142167
 狂飙,http://1.94.31.214:35455/huya/30357165
@@ -62,6 +65,7 @@
 康熙王朝,https://live.ottiptv.cc/huya/11352940
 新三国,https://live.ottiptv.cc/huya/11352944
 大唐双龙传,https://live.metshop.top/huya/29465850
+大唐双龙传,https://lbds.us.ci/29465850
 剧集_士兵突击,https://lbds.us.ci/11342430
 剧集_新三国,https://lbds.us.ci/11352944
 剧集_新水浒,https://lbds.us.ci/11342384
