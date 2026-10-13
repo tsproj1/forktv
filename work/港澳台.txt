@@ -3,7 +3,6 @@
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-凤凰香港,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=aff37a7016d2f0ae2cab0c213a506bc0;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_ap
 凤凰香港,http://173.208.234.146/live/fhxg.m3u8
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -33,7 +32,6 @@
 凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 凤凰香港,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰香港
 凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰中文,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=20d2d96308e5b86aa632cdb8113b2313;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 凤凰中文,http://173.208.234.146/live/fhzw.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
@@ -79,7 +77,6 @@
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
 凤凰资讯,video://https://m.italkbbtv.com/live/62cc97174725b5305843c454
-凤凰资讯,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c23cb91e28540bf120c96780829055cc;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 凤凰资讯,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500960.ts
 凤凰资讯,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/1394220.ts
 凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
@@ -136,12 +133,12 @@
 翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
@@ -197,12 +194,12 @@ TVB明珠,https://cdn6.cc.cd/163189/mzt
 TVB明珠,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB明珠,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052638.ts
 TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-TVB明珠,http://r.jdshipin.com/ZQ4kN
+TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+TVB明珠,http://r.jdshipin.com/ZQ4kN
 TVB明珠,http://r.jdshipin.com/jUx8K
 TVB明珠,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -438,7 +435,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 大爱电视,https://tv.iill.top/4gtv/209
 中天新闻,https://7612-5516-affc-d88b.kylintv.tv/live/cti_iphone.m3u8
-中天新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a789f0e146848bda0dee842cba28533;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
