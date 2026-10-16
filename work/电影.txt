@@ -5,7 +5,6 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://69.30.245.50/live/chcjt.m3u8
 CHC家庭影院,http://45.192.97.170:8880/play/63.m3u8
-CHC家庭影院,http://112.103.141.26:1234/644368373
 CHC家庭影院,http://27.11.102.110:3000/644368373
 CHC家庭影院,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
@@ -63,7 +62,6 @@ CHC动作电影,http://mg.hmysapp.cn:177/偷源狗/咪咕央视/CHC动作电影.
 CHC动作电影,http://69.30.245.50/live/chcdz.m3u8
 CHC动作电影,http://45.192.97.170:8880/play/62.m3u8
 CHC动作电影,http://27.11.102.110:3000/644368714
-CHC动作电影,http://112.103.141.26:1234/644368714
 CHC动作电影,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 CHC动作电影,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC动作电影,rtp://239.3.1.106:8001
@@ -130,14 +128,13 @@ CHC影迷电影,http://43.249.195.13:10213/cdnlive.php?mode=play;id=0c6c955ede88
 CHC影迷电影,http://mg.hmysapp.cn:177/偷源狗/咪咕央视/CHC影迷电影.php?id=301
 CHC影迷电影,http://69.30.245.50/live/chcym.m3u8
 CHC影迷电影,http://45.192.97.170:8880/play/61.m3u8
-CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=f2e1341b21caac9fc6c6db46cd7a8221&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261015065104&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=39.103.188.159&SecurityKey=20261015065104&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c4e9a922e18e850b39f086349bbccfe9&ddCalcu=9ce4vfeac9acaab9b2924e31688e08f5903b&sv=10004&ct=android
 CHC影迷电影,http://27.11.102.110:3000/952383261
-CHC影迷电影,http://112.103.141.26:1234/952383261
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=63a3118aa11f371dbb7212876adfdc71&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261016075103&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=39.103.188.159&SecurityKey=20261016075103&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5fdbf1445c74d9312e51c6befaf79534&ddCalcu=453fv5da9ba7faf1a4f4e5bc67c41d59e321&sv=10004&ct=android
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2026101422030910167691273c4ebead6be56ab61d707c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261014220309&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261014220309&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=818a804f983b7a6cc7277f2d6d3706f3
-CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2026101508421483a49c3deecf47b6b064cb2abccd8a42&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261015084214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=2409:8a00:6031:9fa1:1a8a:7eb1:5e68:471c&SecurityKey=20261015084214&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bdc39d3c59c0495129619df61400e6e1&ddCalcu=1bede6c1e320900d431c65f9dc9014699521
+CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2026101522030912d88a16e2c2487ab259932605a9084a&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261015220309&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261015220309&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b1541644109112fcbd62ea160ba7ee32
+CHC影迷电影,http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202610160842131515e78761704c3bae57492e725723cd&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261016084213&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=2409:8a00:6031:9fa1:cc0b:b822:b199:350c&SecurityKey=20261016084213&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cf9510c6fd022098ccdf36ad02528fab&ddCalcu=bcafef91852210502c06dfad6032f2d0c9c8
 CHC影迷电影,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2026101506031181bd05a33a404988aa76ab9ddf2d4881&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261015060311&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261015060311&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dd43f5e88a0d0177122b49e6c1a162a6
+CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=20261016060308d6365f668f3447bb9ff6810bea1eec5b&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261016060308&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261016060308&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=67f62b50a99ed9273d2d425bd3063b85
 CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 CHC影迷电影,https://stream1.freetv.fun/ipv6-chcying-mi-dian-ying-10.m3u8
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
@@ -214,8 +211,9 @@ AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-3.m3u8
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://31.43.191.125:8080/restream/restream/34827
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华电影,http://8.fast.hidns.vip/163189/lhdy
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8472&tk=e503191f8e20
